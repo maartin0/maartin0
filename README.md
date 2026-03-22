@@ -14,6 +14,6 @@ Hey 👋, I'm Martin, in my second year of Computer Science at the University of
 
 #### Random utils
 - [KiCad CI](https://github.com/stars/maartin0/lists/kicad-action-utils) - A collection of GitHub actions for automating CI on PCB monorepos ([used by SUFST](https://github.com/sufst/pcb))
-- [Spiro](https://maartin0.github.io/spiro/) - A spirograph generator for one of the UoS first year computer science challenges
 - BNO085 - A custom ROS2 driver for the BNO085 IMU
-
+- [Spiro](https://maartin0.github.io/spiro/) - A spirograph generator for one of the UoS first year computer science challenges
+- [Mandlebrot](https://maartin0.github.io/mandlebrot/) - A mandlebrot set visualiser as an experiment to learn the basics of WebGL (using a Rust WASM backend)
