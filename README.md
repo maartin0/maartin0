@@ -6,11 +6,12 @@ Hey 👋, I'm Martin, in my second year of Computer Science at the University of
 - [OrbY](https://maartin0.github.io/orby) - A 3D visualisation of the solar system using three.js, won Gold in the 2023 British Physics Olympiad (BPhO) computational physics challenge
 
 #### Hackathon projects
+- [Miro x Kiro Paris 2026](https://volingi.online/) - A social enterprise concept for connecting non-French speaking volunteers with non-profit organisations so that they can improve their language skills
 - [START Hack 2026](https://terrahack.space/) - A greenhouse simulator and 3d visualisation using FastAPI and three.js. The dashboard was built using lovable.
 - [SotonHack 2026](https://wtfismonad.online/) - Claude code for DJs, using facial recognition to determine crowd energy levels, placed top 3 of 32 teams ([devpost](https://devpost.com/software/wtf-is-monad))
-- Royal Hackaway 2026 - Multiplayer monocopter drone simulator ([devpost](https://devpost.com/software/swarmy-avbytn))
-- NexHacks 2026 - Executive Assistant using Voice Agentic AI ([devpost](https://devpost.com/software/tetra-ghbaf8))
-- HackTheMidlands 2023 - Social media for artwork, finding similar paintings in the national gallery dataset using perceptual hashing ([devpost](https://devpost.com/software/pictura))
+- [Royal Hackaway 2026](https://devpost.com/software/swarmy-avbytn) - Multiplayer monocopter drone simulator
+- [NexHacks 2026](https://devpost.com/software/tetra-ghbaf8) - Executive Assistant using Voice Agentic AI
+- [HackTheMidlands 2023](https://devpost.com/software/pictura) - Social media for artwork, finding similar paintings in the national gallery dataset using perceptual hashing
 
 #### Random utils
 - [KiCad CI](https://github.com/stars/maartin0/lists/kicad-action-utils) - A collection of GitHub actions for automating CI on PCB monorepos ([used by SUFST](https://github.com/sufst/pcb))
